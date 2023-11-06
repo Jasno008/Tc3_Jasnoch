@@ -327,7 +327,7 @@
                                             <String>${configured.ditaot.dir}/plugins/com.oxygenxml.webhelp.responsive/templates/ashes</String>
                                         </field>
                                         <field name="descriptorRelativePath">
-                                            <String>ashes-tiles.opt</String>
+                                            <String>ashes-tree.opt</String>
                                         </field>
                                         <field name="isCustomTemplate">
                                             <Boolean>false</Boolean>
