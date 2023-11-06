@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?><map xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/UMN_Duo_Authentication.ditamap"><opentopic:map xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/UMN_Duo_Authentication.ditamap">UMN Duo Authentication: Getting Started</title>
+    <topicref class="- map/topicref " xtrc="topicref:1;5:55" xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/UMN_Duo_Authentication.ditamap" href="#unique_1" id="unique_1" type="concept" ohref="topics/What_is_multi-factor.dita" first_topic_id="#unique_1"><topicmeta class="- map/topicmeta " data-topic-id="What_is_multi_factor"><resourceid class="- topic/resourceid " oxy-source="topic" appid="What_is_multi_factor"/><navtitle class="- topic/navtitle ">What is Multi-Factor Authentication?</navtitle><?ditaot gentext?><linktext class="- map/linktext ">What is Multi-Factor Authentication?</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Duo Security (multi-factor authentication) is required at UMN Sign-In pages. The         Sign-In page is the University's gateway to applications such as my, G Suite (Gmail,         Calender, Docs, etc.) Canvas, and many others.</shortdesc></topicmeta><topicref class="- map/topicref " xtrc="topicref:2;6:53" xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/UMN_Duo_Authentication.ditamap" href="#unique_2" id="unique_2" type="concept" ohref="topics/Accessibility.dita" first_topic_id="#unique_2"><topicmeta class="- map/topicmeta " data-topic-id="Accessibility"><resourceid class="- topic/resourceid " oxy-source="topic" appid="Accessibility"/><navtitle class="- topic/navtitle ">Accessibility Options</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Accessibility Options</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Duo provides many different options to verify your identity. If you have questions or         concerns about using Duo, contact your disability Resource Center.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " xtrc="topicref:3;7:67" xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/UMN_Duo_Authentication.ditamap" href="#unique_3" id="unique_3" type="task" ohref="topics/enabling_duo_authentication.dita" first_topic_id="#unique_3"><topicmeta class="- map/topicmeta " data-topic-id="enabling_duo_authentication"><resourceid class="- topic/resourceid " oxy-source="topic" appid="enabling_duo_authentication"/><navtitle class="- topic/navtitle ">How to Enable Duo Authentication</navtitle><?ditaot gentext?><linktext class="- map/linktext ">How to Enable Duo Authentication</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Activate Duo Authentication for your account. Once activated Duo cannot be opted out         of.</shortdesc></topicmeta></topicref></topicref>
+    <topicref class="- map/topicref " xtrc="topicref:4;9:60" xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/UMN_Duo_Authentication.ditamap" href="#unique_4" id="unique_4" type="concept" ohref="topics/Managing_Your_Duo_Devices.dita" first_topic_id="#unique_4"><topicmeta class="- map/topicmeta " data-topic-id="adding_and_removing_devices_from_duo"><resourceid class="- topic/resourceid " oxy-source="topic" appid="adding_and_removing_devices_from_duo"/><navtitle class="- topic/navtitle ">Managing Your Duo Devices</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Managing Your Duo Devices</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Adding and removing devices from Duo can be done at any time.</shortdesc></topicmeta><topicref class="- map/topicref " xtrc="topicref:5;10:62" xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/UMN_Duo_Authentication.ditamap" href="#unique_5" id="unique_5" type="task" ohref="topics/adding_a_device_to_duo.dita" first_topic_id="#unique_5"><topicmeta class="- map/topicmeta " data-topic-id="adding_a_device_to_duo"><resourceid class="- topic/resourceid " oxy-source="topic" appid="adding_a_device_to_duo"/><navtitle class="- topic/navtitle ">Adding a Device to Duo</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Adding a Device to Duo</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">You can add a new device to your account via self-service at any time.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " xtrc="topicref:6;11:66" xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/UMN_Duo_Authentication.ditamap" href="#unique_6" id="unique_6" type="task" ohref="topics/removing_a_device_from_duo.dita" first_topic_id="#unique_6"><topicmeta class="- map/topicmeta " data-topic-id="removing_a_device_from_duo"><resourceid class="- topic/resourceid " oxy-source="topic" appid="removing_a_device_from_duo"/><navtitle class="- topic/navtitle ">Removing a Device From Duo</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Removing a Device From Duo</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Remove devices from Duo Authentication. Removing devices will not remove Duo from         your account.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " xtrc="topicref:7;12:69" xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/UMN_Duo_Authentication.ditamap" href="#unique_7" id="unique_7" type="task" ohref="topics/reactivate_an_existing_device.dita" first_topic_id="#unique_7"><topicmeta class="- map/topicmeta " data-topic-id="reactivate_an_existing_device"><resourceid class="- topic/resourceid " oxy-source="topic" appid="reactivate_an_existing_device"/><navtitle class="- topic/navtitle ">Reactivate an Existing Device</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Reactivate an Existing Device</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Reactivate a device that was once in use.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " xtrc="topicref:8;13:60" xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/UMN_Duo_Authentication.ditamap" href="#unique_8" id="unique_8" type="reference" ohref="topics/device_compatibility.dita" first_topic_id="#unique_8"><topicmeta class="- map/topicmeta " data-topic-id="device_compatability"><resourceid class="- topic/resourceid " oxy-source="topic" appid="device_compatability"/><navtitle class="- topic/navtitle ">Device Compatibility</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Device Compatibility</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Duo security is recommended for smart phones and tablets- additional information on         compatibility is provided by the table below.</shortdesc></topicmeta></topicref></topicref>
+</opentopic:map><concept ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/What_is_multi-factor.dita" xtrc="concept:1;3:36" specializations="@props/deliveryTarget" oid="What_is_multi_factor" id="unique_1">
+    <title class="- topic/title " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/What_is_multi-factor.dita" xtrc="title:1;4:12">What is Multi-Factor Authentication?</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/What_is_multi-factor.dita" xtrc="shortdesc:1;5:16">Duo Security (multi-factor authentication) is required at UMN Sign-In pages. The
+        Sign-In page is the University's gateway to applications such as my, G Suite (Gmail,
+        Calender, Docs, etc.) Canvas, and many others.</shortdesc>
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/What_is_multi-factor.dita" xtrc="conbody:1;8:14">
+        <p class="- topic/p " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/What_is_multi-factor.dita" xtrc="p:1;9:12">By requiring you to verify your identity with a device, Duo adds another layer of
+            security in front of the information, accounts, and assets you access online (even in
+            the event your password is stolen). Once enrolled, you will be able to deny access to
+            your accounts (on your Duo-enrolled device) if someone else is trying to sign in as
+            you.</p>
+    </conbody>
+<concept ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/Accessibility.dita" xtrc="concept:1;3:29" specializations="@props/deliveryTarget" oid="Accessibility" id="unique_2">
+    <title class="- topic/title " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/Accessibility.dita" xtrc="title:1;4:12">Accessibility Options</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/Accessibility.dita" xtrc="shortdesc:1;5:16">Duo provides many different options to verify your identity. If you have questions or
+        concerns about using Duo, contact your disability Resource Center.</shortdesc>
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/Accessibility.dita" xtrc="conbody:1;7:14">
+        <p class="- topic/p " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/Accessibility.dita" xtrc="p:1;8:12"><xref href="https://atlas.umn.edu/service-portfolio/adaptive-technology-services" format="html" scope="external" class="- topic/xref " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/Accessibility.dita" xtrc="xref:1;9:48"><?ditaot usertext?>Contact the Disability Resource Center</xref></p>
+        <p class="- topic/p " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/Accessibility.dita" xtrc="p:2;10:12"/>
+    </conbody>
+</concept><task ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/enabling_duo_authentication.dita" xtrc="task:1;3:40" specializations="@props/deliveryTarget" oid="enabling_duo_authentication" id="unique_3">
+    <title class="- topic/title " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/enabling_duo_authentication.dita" xtrc="title:1;4:12">How to Enable Duo Authentication</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/enabling_duo_authentication.dita" xtrc="shortdesc:1;5:16">Activate Duo Authentication for your account. Once activated Duo cannot be opted out
+        of.</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/enabling_duo_authentication.dita" xtrc="taskbody:1;7:15">
+        <context class="- topic/section task/context " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/enabling_duo_authentication.dita" xtrc="context:1;8:18">Enabling Duo as a first time user</context>
+        <steps class="- topic/ol task/steps " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/enabling_duo_authentication.dita" xtrc="steps:1;9:16">
+            <step class="- topic/li task/step " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/enabling_duo_authentication.dita" xtrc="step:1;10:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/enabling_duo_authentication.dita" xtrc="cmd:1;11:22">Sign into <xref href="https://my-account.umn.edu/" format="html" scope="external" class="- topic/xref " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/enabling_duo_authentication.dita" xtrc="xref:1;12:42"><?ditaot usertext?>my-account.umn.edu</xref> with your UMN Internet ID and
+                    password.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/enabling_duo_authentication.dita" xtrc="step:2;15:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/enabling_duo_authentication.dita" xtrc="cmd:2;16:22">Select <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/enabling_duo_authentication.dita" xtrc="b:1;16:32">Duo Security</b> from the navigation menu on the left-hand side of
+                    the page.</cmd>
+                <substeps id="unique_3_Connect_42_substeps_pp5_x1t_3zb" class="- topic/ol task/substeps " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/enabling_duo_authentication.dita" xtrc="substeps:1;18:53">
+                    <substep class="- topic/li task/substep " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/enabling_duo_authentication.dita" xtrc="substep:1;19:30">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/enabling_duo_authentication.dita" xtrc="cmd:3;20:30">In the drop-down menu, choose <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/enabling_duo_authentication.dita" xtrc="b:2;20:63">Enable Duo Security</b></cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/enabling_duo_authentication.dita" xtrc="step:3;24:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/enabling_duo_authentication.dita" xtrc="cmd:4;25:22">Select <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/enabling_duo_authentication.dita" xtrc="b:3;25:32">Yes </b>to opt in, then select <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/enabling_duo_authentication.dita" xtrc="b:4;25:66">Submit</b>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task></concept><concept ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/Managing_Your_Duo_Devices.dita" xtrc="concept:1;3:52" specializations="@props/deliveryTarget" oid="adding_and_removing_devices_from_duo" id="unique_4">
+    <title class="- topic/title " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/Managing_Your_Duo_Devices.dita" xtrc="title:1;4:12">Managing Your Duo Devices</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/Managing_Your_Duo_Devices.dita" xtrc="shortdesc:1;5:16">Adding and removing devices from Duo can be done at any time.</shortdesc>
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/Managing_Your_Duo_Devices.dita" xtrc="conbody:1;6:14">
+        <p class="- topic/p " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/Managing_Your_Duo_Devices.dita" xtrc="p:1;7:12">It is strongly suggested to have at least two different devices added to your Duo
+            Security account. By doing so, you will still be able to access your Duo account using
+            your secondary device even if your primary Duo device is broken or inaccessible.</p>
+    </conbody>
+<task ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="task:1;3:35" specializations="@props/deliveryTarget" oid="adding_a_device_to_duo" id="unique_5">
+    <title class="- topic/title " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="title:1;4:12">Adding a Device to Duo</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="shortdesc:1;5:16">You can add a new device to your account via self-service at any time.</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="taskbody:1;6:15">
+        <context class="- topic/section task/context " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="context:1;7:18">To add a new Duo device:</context>
+        <steps class="- topic/ol task/steps " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="steps:1;8:16">
+            <step class="- topic/li task/step " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="step:1;9:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="cmd:1;10:22">Sign into <xref href="https://my-account.umn.edu/" format="html" scope="external" class="- topic/xref " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="xref:1;11:42"><?ditaot usertext?>my-account.umn.edu</xref> with your UMN Internet ID and
+                    password</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="step:2;14:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="cmd:2;15:22">Authenticate with Duo using your <xref href="https://it.umn.edu/services-technologies/how-tos/duo-use-duo-security-sign-in#use-backup" format="html" scope="external" class="- topic/xref " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="xref:2;17:56"><?ditaot usertext?>backup device</xref> or a <xref href="https://it.umn.edu/services-technologies/how-tos/duo-use-duo-security-sign-in#using-passcode" format="html" scope="external" class="- topic/xref " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="xref:3;19:56"><?ditaot usertext?>bypass code</xref></cmd>
+                <substeps id="unique_5_Connect_42_substeps_urp_yct_3zb" class="- topic/ol task/substeps " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="substeps:1;20:53">
+                    <substep class="- topic/li task/substep " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="substep:1;21:30">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="cmd:3;22:30">If you have a new device that uses the <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="b:1;22:72">same phone number</b> as an
+                            existing Duo device on your account, use the <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="b:2;23:77"><xref href="https://guide.duo.com/other-phones" format="html" scope="external" class="- topic/xref " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="xref:4;25:54"><?ditaot usertext?>Call Me</xref></b> option</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="substep:2;27:30">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="cmd:4;28:30">If you do not have a backup device or bypass codes AND your new device
+                            has a different phone number, prepare a valid form of photo ID and
+                            contact <xref href="http://it.umn.edu/help" format="html" scope="external" class="- topic/xref " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="xref:5;31:50"><?ditaot usertext?>Technology Help</xref> for assistance</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="step:3;35:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="cmd:5;36:22">Select <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="b:3;36:32">Duo Security</b> from the navigation menu </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="step:4;38:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="cmd:6;39:22">Select <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="b:4;39:32">Create or Manage Duo Account</b></cmd>
+                <substeps id="unique_5_Connect_42_substeps_ip5_fgt_3zb" class="- topic/ol task/substeps " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="substeps:2;40:53">
+                    <substep class="- topic/li task/substep " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="substep:3;41:30">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="cmd:7;42:30">Authenticate with Duo a second time using one of the options from step
+                            2</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="step:5;47:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="cmd:8;48:22">Select <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="b:5;48:32">Add another device</b></cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="step:6;50:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="cmd:9;51:22">Select the type of device you wish to add</cmd>
+                <substeps id="unique_5_Connect_42_substeps_pzz_13t_3zb" class="- topic/ol task/substeps " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="substeps:3;52:53">
+                    <substep class="- topic/li task/substep " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="substep:4;53:30">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="cmd:10;54:30">If you wish to enroll a smart phone tied to an <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="b:6;54:80">international
+                                (non-US)</b> phone number, add the device as a <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="b:7;55:83">Tablet</b> rather
+                            than a <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="b:8;56:39">Mobile phone</b></cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="step:7;60:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="cmd:11;61:22">Click <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="b:9;61:31">Continue</b> and follow the prompts to complete enrollment for your
+                    device</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="step:8;64:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="cmd:12;65:22">If you are adding a smart phone or a tablet, you will be prompted to scan a QR
+                    code or use an activation link to activate Duo mobile</cmd>
+                <substeps id="unique_5_Connect_42_substeps_i1v_g3t_3zb" class="- topic/ol task/substeps " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="substeps:4;67:53">
+                    <substep class="- topic/li task/substep " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="substep:5;68:30">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="cmd:13;69:30">Scan the <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="b:10;69:42">QR code</b> and click <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="b:11;69:67">Continue</b> to complete the
+                            enrollment process</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="substep:6;72:30">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="cmd:14;73:30">If the QR code was created on the <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="b:12;73:67">same</b>
+                            <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="b:13;74:32">device</b> that you are trying to enroll, select <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="b:14;74:84">Email me an
+                                activation link </b>instead. Enter an email address that you can
+                            check on the device you wish to enroll. Click <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="b:15;76:78">Send email</b></cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="step:9;80:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="cmd:15;81:22">Use the device you are trying to enroll to open the emailed link. On the
+                        <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="b:16;82:28">Activate Duo Mobile by Email</b> screen, select <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/adding_a_device_to_duo.dita" xtrc="b:17;82:79">Continue </b>to
+                    complete the enrollment process.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/removing_a_device_from_duo.dita" xtrc="task:1;3:39" specializations="@props/deliveryTarget" oid="removing_a_device_from_duo" id="unique_6">
+    <title class="- topic/title " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/removing_a_device_from_duo.dita" xtrc="title:1;4:12">Removing a Device From Duo</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/removing_a_device_from_duo.dita" xtrc="shortdesc:1;5:16">Remove devices from Duo Authentication. Removing devices will not remove Duo from
+        your account.</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/removing_a_device_from_duo.dita" xtrc="taskbody:1;7:15">
+        <context class="- topic/section task/context " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/removing_a_device_from_duo.dita" xtrc="context:1;8:18">To remove a device from duo:<p class="- topic/p " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/removing_a_device_from_duo.dita" xtrc="p:1;8:50"/></context>
+        <steps class="- topic/ol task/steps " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/removing_a_device_from_duo.dita" xtrc="steps:1;9:16">
+            <step class="- topic/li task/step " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/removing_a_device_from_duo.dita" xtrc="step:1;10:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/removing_a_device_from_duo.dita" xtrc="cmd:1;11:22">Sign into <xref href="https://my-account.umn.edu/" format="html" scope="external" class="- topic/xref " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/removing_a_device_from_duo.dita" xtrc="xref:1;12:42"><?ditaot usertext?>my-account.umn.edu</xref> with your UMN Internet ID and
+                    password</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/removing_a_device_from_duo.dita" xtrc="step:2;15:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/removing_a_device_from_duo.dita" xtrc="cmd:2;16:22">Authenticate with Duo using an existing device or with a <xref href="https://it.umn.edu/services-technologies/how-tos/duo-use-duo-security-sign-in#using-passcode" format="html" scope="external" class="- topic/xref " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/removing_a_device_from_duo.dita" xtrc="xref:2;18:56"><?ditaot usertext?>bypass code</xref></cmd>
+                <substeps id="unique_6_Connect_42_substeps_swf_llt_3zb" class="- topic/ol task/substeps " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/removing_a_device_from_duo.dita" xtrc="substeps:1;19:53">
+                    <substep class="- topic/li task/substep " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/removing_a_device_from_duo.dita" xtrc="substep:1;20:30">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/removing_a_device_from_duo.dita" xtrc="cmd:3;21:30">If you do not have an existing device or bypass codes, prepare a valid
+                            form of photo ID and contact <xref href="http://it.umn.edu/help" format="html" scope="external" class="- topic/xref " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/removing_a_device_from_duo.dita" xtrc="xref:3;23:64"><?ditaot usertext?>Technology Help</xref> for
+                            assistance</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/removing_a_device_from_duo.dita" xtrc="step:3;28:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/removing_a_device_from_duo.dita" xtrc="cmd:4;29:22">Select <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/removing_a_device_from_duo.dita" xtrc="b:1;29:32">Duo Security</b> from the navigation menu</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/removing_a_device_from_duo.dita" xtrc="step:4;31:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/removing_a_device_from_duo.dita" xtrc="cmd:5;32:22">Select <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/removing_a_device_from_duo.dita" xtrc="b:2;32:32">Create or Manage Duo Account</b></cmd>
+                <substeps id="unique_6_Connect_42_substeps_rs2_qlt_3zb" class="- topic/ol task/substeps " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/removing_a_device_from_duo.dita" xtrc="substeps:2;33:53">
+                    <substep class="- topic/li task/substep " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/removing_a_device_from_duo.dita" xtrc="substep:2;34:30">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/removing_a_device_from_duo.dita" xtrc="cmd:6;35:30">Authenticate with Duo a second time using one of the options from step
+                            2</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/removing_a_device_from_duo.dita" xtrc="step:5;40:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/removing_a_device_from_duo.dita" xtrc="cmd:7;41:22">Select <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/removing_a_device_from_duo.dita" xtrc="b:3;41:32">Device Options </b>for the device you want to remove</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/removing_a_device_from_duo.dita" xtrc="step:6;43:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/removing_a_device_from_duo.dita" xtrc="cmd:8;44:22">Click the <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/removing_a_device_from_duo.dita" xtrc="b:4;44:35">trash can icon</b></cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/removing_a_device_from_duo.dita" xtrc="step:7;46:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/removing_a_device_from_duo.dita" xtrc="cmd:9;47:22">Click <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/removing_a_device_from_duo.dita" xtrc="b:5;47:31">Remove</b></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="task:1;3:42" specializations="@props/deliveryTarget" oid="reactivate_an_existing_device" id="unique_7">
+    <title class="- topic/title " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="title:1;4:12">Reactivate an Existing Device</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="shortdesc:1;5:16">Reactivate a device that was once in use.</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="taskbody:1;6:15">
+        <context class="- topic/section task/context " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="context:1;7:18">To reactivate your device:</context>
+        <steps class="- topic/ol task/steps " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="steps:1;8:16">
+            <step class="- topic/li task/step " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="step:1;9:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="cmd:1;10:22">Sign into <xref href="https://my-account.umn.edu/" format="html" scope="external" class="- topic/xref " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="xref:1;11:42"><?ditaot usertext?>my-account.umn.edu</xref> with your UMN Internet ID and
+                    password</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="step:2;14:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="cmd:2;15:22">Authenticate with Duo using your <xref href="https://it.umn.edu/services-technologies/how-tos/duo-use-duo-security-sign-in#use-backup" format="html" scope="external" class="- topic/xref " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="xref:2;17:56"><?ditaot usertext?>backup device</xref> or a <xref href="https://it.umn.edu/services-technologies/how-tos/duo-use-duo-security-sign-in#using-passcode" format="html" scope="external" class="- topic/xref " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="xref:3;19:56"><?ditaot usertext?>bypass code</xref></cmd>
+                <substeps id="unique_7_Connect_42_substeps_rcd_nnt_3zb" class="- topic/ol task/substeps " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="substeps:1;20:53">
+                    <substep class="- topic/li task/substep " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="substep:1;21:30">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="cmd:3;22:30">If you have a new device that uses the <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="b:1;22:72">same phone number </b>as an
+                            existing Duo device on your account, use the <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="b:2;23:77"><xref href="https://guide.duo.com/other-phones" format="html" scope="external" class="- topic/xref " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="xref:4;25:54"><?ditaot usertext?>Call Me</xref></b> option</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="substep:2;27:30">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="cmd:4;28:30">If you do not have a backup device or bypass codes AND your new device
+                            has a different phone number, prepare a valid form of photo ID and
+                            contact <xref href="http://it.umn.edu/help" format="html" scope="external" class="- topic/xref " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="xref:5;31:50"><?ditaot usertext?>Technology Help</xref> for assistance</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="step:3;35:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="cmd:5;36:22">Select <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="b:3;36:32">Duo Security</b> from the navigation menu</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="step:4;38:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="cmd:6;39:22">Select <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="b:4;39:32">Create or Manage Duo Account</b></cmd>
+                <substeps id="unique_7_Connect_42_substeps_zvk_qnt_3zb" class="- topic/ol task/substeps " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="substeps:2;40:53">
+                    <substep class="- topic/li task/substep " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="substep:3;41:30">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="cmd:7;42:30">Authenticate with Duo a second time using one of the options from step
+                            2</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="step:5;47:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="cmd:8;48:22">Next to the device you are reactivating or replacing, select <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="b:5;48:86">Device
+                        Options</b></cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="step:6;51:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="cmd:9;52:22">Select <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="b:6;52:32">Reactivate Duo Mobile</b></cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="step:7;54:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="cmd:10;55:22">If you are reactivating an existing phone number on your account, you will be
+                    prompted to <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="b:7;56:36">verify ownership</b> of the device</cmd>
+                <substeps id="unique_7_Connect_42_substeps_rpt_vnt_3zb" class="- topic/ol task/substeps " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="substeps:3;57:53">
+                    <substep class="- topic/li task/substep " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="substep:4;58:30">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="cmd:11;59:30">Select <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="b:8;59:40">Call me</b> to get your verification code</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="substep:5;61:30">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="cmd:12;62:30">Enter the 6-digit code and select <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="b:9;62:67">Verify</b></cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="substep:6;64:30">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="cmd:13;65:30">Select <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="b:10;65:40">Continue</b></cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="step:8;69:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="cmd:14;70:22">You will be prompted to install Duo Mobile on your device. Once the Duo Mobile
+                    application is installed on your device, select <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="b:11;71:72">I have Duo Mobile
+                        Installed</b></cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="step:9;74:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="cmd:15;75:22">If you are adding a smart phone or a tablet, you will be prompted to scan a QR
+                    code or use an activation link to activate Duo mobile</cmd>
+                <substeps id="unique_7_Connect_42_substeps_v1z_14t_3zb" class="- topic/ol task/substeps " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="substeps:4;77:53">
+                    <substep class="- topic/li task/substep " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="substep:7;78:30">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="cmd:16;79:30">Scan the <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="b:12;79:42">QR code</b> and click <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="b:13;79:67">Continue</b> to complete the
+                            enrollment process</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="substep:8;82:30">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="cmd:17;83:30">If the QR code was created on the <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="b:14;83:67">same</b>
+                            <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="b:15;84:32">device</b> that you are trying to enroll, select <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="b:16;84:84">Email me an
+                                activation link </b>instead. Enter an email address that you can
+                            check on the device you wish to enroll. Click <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="b:17;86:78">Send email</b></cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="step:10;90:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="cmd:18;91:22">Use the device you are trying to enroll to open the emailed link. On the
+                        <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="b:18;92:28">Activate Duo Mobile by Email</b> screen, select <b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/reactivate_an_existing_device.dita" xtrc="b:19;92:79">Continue </b>to
+                    complete the enrollment process.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><reference ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic       reference/reference " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/device_compatibility.dita" xtrc="reference:1;3:38" specializations="@props/deliveryTarget" oid="device_compatability" id="unique_8">
+    <title class="- topic/title " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/device_compatibility.dita" xtrc="title:1;4:12">Device Compatibility</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/device_compatibility.dita" xtrc="shortdesc:1;5:16">Duo security is recommended for smart phones and tablets- additional information on
+        compatibility is provided by the table below.</shortdesc>
+    <refbody class="- topic/body        reference/refbody " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/device_compatibility.dita" xtrc="refbody:1;7:14">
+        <table frame="all" rowsep="1" colsep="1" id="unique_8_Connect_42_table_ryt_dt5_3zb" class="- topic/table " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/device_compatibility.dita" xtrc="table:1;8:73">
+            <tgroup cols="2" class="- topic/tgroup " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/device_compatibility.dita" xtrc="tgroup:1;9:30">
+                <colspec colname="col1" colnum="1" colwidth="1*" class="- topic/colspec " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/device_compatibility.dita" xtrc="colspec:1;10:65"/>
+                <colspec colname="col2" colnum="2" colwidth="1*" class="- topic/colspec " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/device_compatibility.dita" xtrc="colspec:2;11:65"/>
+                <thead class="- topic/thead " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/device_compatibility.dita" xtrc="thead:1;12:24">
+                    <row class="- topic/row " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/device_compatibility.dita" xtrc="row:1;13:26">
+                        <entry class="- topic/entry " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/device_compatibility.dita" xtrc="entry:1;14:32" colname="col1" dita-ot:x="1" dita-ot:y="1">Compatible Device</entry>
+                        <entry class="- topic/entry " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/device_compatibility.dita" xtrc="entry:2;15:32" colname="col2" dita-ot:x="2" dita-ot:y="1">Requirements</entry>
+                    </row>
+                </thead>
+                <tbody class="- topic/tbody " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/device_compatibility.dita" xtrc="tbody:1;18:24">
+                    <row class="- topic/row " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/device_compatibility.dita" xtrc="row:2;19:26">
+                        <entry class="- topic/entry " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/device_compatibility.dita" xtrc="entry:3;20:32" colname="col1" dita-ot:x="1" dita-ot:y="2">iPhone, Apple Watch</entry>
+                        <entry class="- topic/entry " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/device_compatibility.dita" xtrc="entry:4;21:32" colname="col2" dita-ot:x="2" dita-ot:y="2">IOS 14.0 +</entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/device_compatibility.dita" xtrc="row:3;23:26">
+                        <entry class="- topic/entry " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/device_compatibility.dita" xtrc="entry:5;24:32" colname="col1" dita-ot:x="1" dita-ot:y="3">Android</entry>
+                        <entry class="- topic/entry " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/device_compatibility.dita" xtrc="entry:6;25:32" colname="col2" dita-ot:x="2" dita-ot:y="3">Android 10 or newer</entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/device_compatibility.dita" xtrc="row:4;27:26">
+                        <entry class="- topic/entry " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/device_compatibility.dita" xtrc="entry:7;28:32" colname="col1" dita-ot:x="1" dita-ot:y="4">Landline ("<b class="+ topic/ph hi-d/b " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/device_compatibility.dita" xtrc="b:1;28:46">Call Me</b>" option only)</entry>
+                        <entry class="- topic/entry " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/device_compatibility.dita" xtrc="entry:8;29:32" colname="col2" dita-ot:x="2" dita-ot:y="4">US or Canada area codes</entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/device_compatibility.dita" xtrc="row:5;31:26">
+                        <entry class="- topic/entry " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/device_compatibility.dita" xtrc="entry:9;32:32" colname="col1" dita-ot:x="1" dita-ot:y="5">International Devices</entry>
+                        <entry class="- topic/entry " xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/device_compatibility.dita" xtrc="entry:10;33:32" colname="col2" dita-ot:x="2" dita-ot:y="5">Can be added as "tablets"</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference></concept></map>

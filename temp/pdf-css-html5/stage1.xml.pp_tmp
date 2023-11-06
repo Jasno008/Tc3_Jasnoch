@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?><map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/UMN_Duo_Authentication.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">UMN Duo Authentication: Getting Started</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">UMN Duo Authentication: Getting Started</title>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="What_is_multi_factor"><resourceid appid="What_is_multi_factor" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">What is Multi-Factor Authentication?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Duo Security (multi-factor authentication) is required at UMN Sign-In pages. The         Sign-In page is the University's gateway to applications such as my, G Suite (Gmail,         Calender, Docs, etc.) Canvas, and many others.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="Accessibility"><resourceid appid="Accessibility" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Accessibility Options</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Duo provides many different options to verify your identity. If you have questions or         concerns about using Duo, contact your disability Resource Center.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_3" type="task"><topicmeta class="- map/topicmeta " data-topic-id="enabling_duo_authentication"><resourceid appid="enabling_duo_authentication" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">How to Enable Duo Authentication</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Activate Duo Authentication for your account. Once activated Duo cannot be opted out         of.</shortdesc></topicmeta></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_4" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="adding_and_removing_devices_from_duo"><resourceid appid="adding_and_removing_devices_from_duo" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Managing Your Duo Devices</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Adding and removing devices from Duo can be done at any time.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_5" type="task"><topicmeta class="- map/topicmeta " data-topic-id="adding_a_device_to_duo"><resourceid appid="adding_a_device_to_duo" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Adding a Device to Duo</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">You can add a new device to your account via self-service at any time.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_6" type="task"><topicmeta class="- map/topicmeta " data-topic-id="removing_a_device_from_duo"><resourceid appid="removing_a_device_from_duo" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Removing a Device From Duo</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Remove devices from Duo Authentication. Removing devices will not remove Duo from         your account.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_7" type="task"><topicmeta class="- map/topicmeta " data-topic-id="reactivate_an_existing_device"><resourceid appid="reactivate_an_existing_device" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Reactivate an Existing Device</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Reactivate a device that was once in use.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_8" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="device_compatability"><resourceid appid="device_compatability" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Device Compatibility</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Duo security is recommended for smart phones and tablets- additional information on         compatibility is provided by the table below.</shortdesc></topicmeta></topicref></topicref>
+</opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="What_is_multi_factor" oid="What_is_multi_factor" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">What is Multi-Factor Authentication?</ph></title>
+    <shortdesc class="- topic/shortdesc ">Duo Security (multi-factor authentication) is required at UMN Sign-In pages. The
+        Sign-In page is the University's gateway to applications such as my, G Suite (Gmail,
+        Calender, Docs, etc.) Canvas, and many others.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">By requiring you to verify your identity with a device, Duo adds another layer of
+            security in front of the information, accounts, and assets you access online (even in
+            the event your password is stolen). Once enrolled, you will be able to deny access to
+            your accounts (on your Duo-enrolled device) if someone else is trying to sign in as
+            you.</p>
+    </conbody>
+<concept class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="Accessibility" oid="Accessibility" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Accessibility Options</ph></title>
+    <shortdesc class="- topic/shortdesc ">Duo provides many different options to verify your identity. If you have questions or
+        concerns about using Duo, contact your disability Resource Center.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "><xref class="- topic/xref " format="html" href="https://atlas.umn.edu/service-portfolio/adaptive-technology-services" scope="external"><?ditaot usertext?>Contact the Disability Resource Center</xref></p>
+        <p class="- topic/p "/>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="enabling_duo_authentication" oid="enabling_duo_authentication" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Enable Duo Authentication</ph></title>
+    <shortdesc class="- topic/shortdesc ">Activate Duo Authentication for your account. Once activated Duo cannot be opted out
+        of.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">Enabling Duo as a first time user</context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Sign into <xref class="- topic/xref " format="html" href="https://my-account.umn.edu/" scope="external"><?ditaot usertext?>my-account.umn.edu</xref> with your UMN Internet ID and
+                    password.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select <b class="+ topic/ph hi-d/b ">Duo Security</b> from the navigation menu on the left-hand side of
+                    the page.</cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_3_Connect_42_substeps_pp5_x1t_3zb" nd:nd-id="substeps_pp5_x1t_3zb">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">In the drop-down menu, choose <b class="+ topic/ph hi-d/b ">Enable Duo Security</b></cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select <b class="+ topic/ph hi-d/b ">Yes </b>to opt in, then select <b class="+ topic/ph hi-d/b ">Submit</b>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task></concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="adding_and_removing_devices_from_duo" oid="adding_and_removing_devices_from_duo" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Managing Your Duo Devices</ph></title>
+    <shortdesc class="- topic/shortdesc ">Adding and removing devices from Duo can be done at any time.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">It is strongly suggested to have at least two different devices added to your Duo
+            Security account. By doing so, you will still be able to access your Duo account using
+            your secondary device even if your primary Duo device is broken or inaccessible.</p>
+    </conbody>
+<task class="- topic/topic task/task " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="adding_a_device_to_duo" oid="adding_a_device_to_duo" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Adding a Device to Duo</ph></title>
+    <shortdesc class="- topic/shortdesc ">You can add a new device to your account via self-service at any time.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">To add a new Duo device:</context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Sign into <xref class="- topic/xref " format="html" href="https://my-account.umn.edu/" scope="external"><?ditaot usertext?>my-account.umn.edu</xref> with your UMN Internet ID and
+                    password</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Authenticate with Duo using your <xref class="- topic/xref " format="html" href="https://it.umn.edu/services-technologies/how-tos/duo-use-duo-security-sign-in#use-backup" scope="external"><?ditaot usertext?>backup device</xref> or a <xref class="- topic/xref " format="html" href="https://it.umn.edu/services-technologies/how-tos/duo-use-duo-security-sign-in#using-passcode" scope="external"><?ditaot usertext?>bypass code</xref></cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_5_Connect_42_substeps_urp_yct_3zb" nd:nd-id="substeps_urp_yct_3zb">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">If you have a new device that uses the <b class="+ topic/ph hi-d/b ">same phone number</b> as an
+                            existing Duo device on your account, use the <b class="+ topic/ph hi-d/b "><xref class="- topic/xref " format="html" href="https://guide.duo.com/other-phones" scope="external"><?ditaot usertext?>Call Me</xref></b> option</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">If you do not have a backup device or bypass codes AND your new device
+                            has a different phone number, prepare a valid form of photo ID and
+                            contact <xref class="- topic/xref " format="html" href="http://it.umn.edu/help" scope="external"><?ditaot usertext?>Technology Help</xref> for assistance</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select <b class="+ topic/ph hi-d/b ">Duo Security</b> from the navigation menu </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select <b class="+ topic/ph hi-d/b ">Create or Manage Duo Account</b></cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_5_Connect_42_substeps_ip5_fgt_3zb" nd:nd-id="substeps_ip5_fgt_3zb">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Authenticate with Duo a second time using one of the options from step
+                            2</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select <b class="+ topic/ph hi-d/b ">Add another device</b></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select the type of device you wish to add</cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_5_Connect_42_substeps_pzz_13t_3zb" nd:nd-id="substeps_pzz_13t_3zb">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">If you wish to enroll a smart phone tied to an <b class="+ topic/ph hi-d/b ">international
+                                (non-US)</b> phone number, add the device as a <b class="+ topic/ph hi-d/b ">Tablet</b> rather
+                            than a <b class="+ topic/ph hi-d/b ">Mobile phone</b></cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click <b class="+ topic/ph hi-d/b ">Continue</b> and follow the prompts to complete enrollment for your
+                    device</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">If you are adding a smart phone or a tablet, you will be prompted to scan a QR
+                    code or use an activation link to activate Duo mobile</cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_5_Connect_42_substeps_i1v_g3t_3zb" nd:nd-id="substeps_i1v_g3t_3zb">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Scan the <b class="+ topic/ph hi-d/b ">QR code</b> and click <b class="+ topic/ph hi-d/b ">Continue</b> to complete the
+                            enrollment process</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">If the QR code was created on the <b class="+ topic/ph hi-d/b ">same</b>
+                            <b class="+ topic/ph hi-d/b ">device</b> that you are trying to enroll, select <b class="+ topic/ph hi-d/b ">Email me an
+                                activation link </b>instead. Enter an email address that you can
+                            check on the device you wish to enroll. Click <b class="+ topic/ph hi-d/b ">Send email</b></cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Use the device you are trying to enroll to open the emailed link. On the
+                        <b class="+ topic/ph hi-d/b ">Activate Duo Mobile by Email</b> screen, select <b class="+ topic/ph hi-d/b ">Continue </b>to
+                    complete the enrollment process.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="removing_a_device_from_duo" oid="removing_a_device_from_duo" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Removing a Device From Duo</ph></title>
+    <shortdesc class="- topic/shortdesc ">Remove devices from Duo Authentication. Removing devices will not remove Duo from
+        your account.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">To remove a device from duo:<p class="- topic/p "/></context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Sign into <xref class="- topic/xref " format="html" href="https://my-account.umn.edu/" scope="external"><?ditaot usertext?>my-account.umn.edu</xref> with your UMN Internet ID and
+                    password</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Authenticate with Duo using an existing device or with a <xref class="- topic/xref " format="html" href="https://it.umn.edu/services-technologies/how-tos/duo-use-duo-security-sign-in#using-passcode" scope="external"><?ditaot usertext?>bypass code</xref></cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_6_Connect_42_substeps_swf_llt_3zb" nd:nd-id="substeps_swf_llt_3zb">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">If you do not have an existing device or bypass codes, prepare a valid
+                            form of photo ID and contact <xref class="- topic/xref " format="html" href="http://it.umn.edu/help" scope="external"><?ditaot usertext?>Technology Help</xref> for
+                            assistance</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select <b class="+ topic/ph hi-d/b ">Duo Security</b> from the navigation menu</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select <b class="+ topic/ph hi-d/b ">Create or Manage Duo Account</b></cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_6_Connect_42_substeps_rs2_qlt_3zb" nd:nd-id="substeps_rs2_qlt_3zb">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Authenticate with Duo a second time using one of the options from step
+                            2</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select <b class="+ topic/ph hi-d/b ">Device Options </b>for the device you want to remove</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click the <b class="+ topic/ph hi-d/b ">trash can icon</b></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click <b class="+ topic/ph hi-d/b ">Remove</b></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="reactivate_an_existing_device" oid="reactivate_an_existing_device" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Reactivate an Existing Device</ph></title>
+    <shortdesc class="- topic/shortdesc ">Reactivate a device that was once in use.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">To reactivate your device:</context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Sign into <xref class="- topic/xref " format="html" href="https://my-account.umn.edu/" scope="external"><?ditaot usertext?>my-account.umn.edu</xref> with your UMN Internet ID and
+                    password</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Authenticate with Duo using your <xref class="- topic/xref " format="html" href="https://it.umn.edu/services-technologies/how-tos/duo-use-duo-security-sign-in#use-backup" scope="external"><?ditaot usertext?>backup device</xref> or a <xref class="- topic/xref " format="html" href="https://it.umn.edu/services-technologies/how-tos/duo-use-duo-security-sign-in#using-passcode" scope="external"><?ditaot usertext?>bypass code</xref></cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_7_Connect_42_substeps_rcd_nnt_3zb" nd:nd-id="substeps_rcd_nnt_3zb">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">If you have a new device that uses the <b class="+ topic/ph hi-d/b ">same phone number </b>as an
+                            existing Duo device on your account, use the <b class="+ topic/ph hi-d/b "><xref class="- topic/xref " format="html" href="https://guide.duo.com/other-phones" scope="external"><?ditaot usertext?>Call Me</xref></b> option</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">If you do not have a backup device or bypass codes AND your new device
+                            has a different phone number, prepare a valid form of photo ID and
+                            contact <xref class="- topic/xref " format="html" href="http://it.umn.edu/help" scope="external"><?ditaot usertext?>Technology Help</xref> for assistance</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select <b class="+ topic/ph hi-d/b ">Duo Security</b> from the navigation menu</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select <b class="+ topic/ph hi-d/b ">Create or Manage Duo Account</b></cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_7_Connect_42_substeps_zvk_qnt_3zb" nd:nd-id="substeps_zvk_qnt_3zb">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Authenticate with Duo a second time using one of the options from step
+                            2</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Next to the device you are reactivating or replacing, select <b class="+ topic/ph hi-d/b ">Device
+                        Options</b></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select <b class="+ topic/ph hi-d/b ">Reactivate Duo Mobile</b></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">If you are reactivating an existing phone number on your account, you will be
+                    prompted to <b class="+ topic/ph hi-d/b ">verify ownership</b> of the device</cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_7_Connect_42_substeps_rpt_vnt_3zb" nd:nd-id="substeps_rpt_vnt_3zb">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Select <b class="+ topic/ph hi-d/b ">Call me</b> to get your verification code</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Enter the 6-digit code and select <b class="+ topic/ph hi-d/b ">Verify</b></cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Select <b class="+ topic/ph hi-d/b ">Continue</b></cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">You will be prompted to install Duo Mobile on your device. Once the Duo Mobile
+                    application is installed on your device, select <b class="+ topic/ph hi-d/b ">I have Duo Mobile
+                        Installed</b></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">If you are adding a smart phone or a tablet, you will be prompted to scan a QR
+                    code or use an activation link to activate Duo mobile</cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_7_Connect_42_substeps_v1z_14t_3zb" nd:nd-id="substeps_v1z_14t_3zb">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Scan the <b class="+ topic/ph hi-d/b ">QR code</b> and click <b class="+ topic/ph hi-d/b ">Continue</b> to complete the
+                            enrollment process</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">If the QR code was created on the <b class="+ topic/ph hi-d/b ">same</b>
+                            <b class="+ topic/ph hi-d/b ">device</b> that you are trying to enroll, select <b class="+ topic/ph hi-d/b ">Email me an
+                                activation link </b>instead. Enter an email address that you can
+                            check on the device you wish to enroll. Click <b class="+ topic/ph hi-d/b ">Send email</b></cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Use the device you are trying to enroll to open the emailed link. On the
+                        <b class="+ topic/ph hi-d/b ">Activate Duo Mobile by Email</b> screen, select <b class="+ topic/ph hi-d/b ">Continue </b>to
+                    complete the enrollment process.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><reference class="- topic/topic       reference/reference " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="device_compatability" oid="device_compatability" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Device Compatibility</ph></title>
+    <shortdesc class="- topic/shortdesc ">Duo security is recommended for smart phones and tablets- additional information on
+        compatibility is provided by the table below.</shortdesc>
+    <refbody class="- topic/body        reference/refbody ">
+        <table class="- topic/table " colsep="1" frame="all" id="unique_8_Connect_42_table_ryt_dt5_3zb" nd:nd-id="table_ryt_dt5_3zb" rowsep="1">
+            <tgroup class="- topic/tgroup " cols="2">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;10:65" xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/device_compatibility.dita" style="width:50%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;11:65" xtrf="file:/Users/rowenjasnoch/Desktop/Tc3_Jasnoch/topics/device_compatibility.dita" style="width:50%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">Compatible Device</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">Requirements</entry></row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">iPhone, Apple Watch</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">IOS 14.0 +</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">Android</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">Android 10 or newer</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">Landline ("<b class="+ topic/ph hi-d/b ">Call Me</b>" option only)</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">US or Canada area codes</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">International Devices</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">Can be added as "tablets"</entry></row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference></concept></map>

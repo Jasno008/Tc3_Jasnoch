@@ -2,7 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="adding_a_device_to_duo">
     <title>Adding a Device to Duo</title>
-    <shortdesc>You can add a new device to your account via self-service.</shortdesc>
+    <shortdesc>You can add a new device to your account via self-service at any time.</shortdesc>
     <taskbody>
         <context>To add a new Duo device:</context>
         <steps>

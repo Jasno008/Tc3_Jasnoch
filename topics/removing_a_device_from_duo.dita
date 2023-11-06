@@ -2,8 +2,8 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="removing_a_device_from_duo">
     <title>Removing a Device From Duo</title>
-    <shortdesc>Removing devices from Duo is possible, but once you have opted to enable Duo you
-        cannot opt out.</shortdesc>
+    <shortdesc>Remove devices from Duo Authentication. Removing devices will not remove Duo from
+        your account.</shortdesc>
     <taskbody>
         <context>To remove a device from duo:<p/></context>
         <steps>
