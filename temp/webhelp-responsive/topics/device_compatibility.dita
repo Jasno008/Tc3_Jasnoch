@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\Jasro\OneDrive\Desktop\Tc3_Jasnoch copy\temp\webhelp-responsive\topics?><?workdir-uri file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/temp/webhelp-responsive/topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Reference//EN?><?doctype-system reference.dtd?><reference xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="device_compatability" ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic       reference/reference " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/device_compatibility.dita" xtrc="reference:1;3:38" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/device_compatibility.dita" xtrc="title:1;4:12">Device Compatibility</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/device_compatibility.dita" xtrc="shortdesc:1;5:16">Duo security is recommended for smart phones and tablets- additional information on
+        compatibility is provided by the table below.</shortdesc>
+    <refbody class="- topic/body        reference/refbody " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/device_compatibility.dita" xtrc="refbody:1;7:14">
+        <table frame="all" rowsep="1" colsep="1" id="table_ryt_dt5_3zb" class="- topic/table " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/device_compatibility.dita" xtrc="table:1;8:73">
+            <tgroup cols="2" class="- topic/tgroup " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/device_compatibility.dita" xtrc="tgroup:1;9:30">
+                <colspec colname="col1" colnum="1" colwidth="1*" class="- topic/colspec " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/device_compatibility.dita" xtrc="colspec:1;10:65"/>
+                <colspec colname="col2" colnum="2" colwidth="1*" class="- topic/colspec " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/device_compatibility.dita" xtrc="colspec:2;11:65"/>
+                <thead class="- topic/thead " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/device_compatibility.dita" xtrc="thead:1;12:24">
+                    <row class="- topic/row " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/device_compatibility.dita" xtrc="row:1;13:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/device_compatibility.dita" xtrc="entry:1;14:32" colname="col1" dita-ot:x="1" dita-ot:y="1">Compatible Device</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/device_compatibility.dita" xtrc="entry:2;15:32" colname="col2" dita-ot:x="2" dita-ot:y="1">Requirements</entry>
+                    </row>
+                </thead>
+                <tbody class="- topic/tbody " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/device_compatibility.dita" xtrc="tbody:1;18:24">
+                    <row class="- topic/row " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/device_compatibility.dita" xtrc="row:2;19:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/device_compatibility.dita" xtrc="entry:3;20:32" colname="col1" dita-ot:x="1" dita-ot:y="2">iPhone, Apple Watch</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/device_compatibility.dita" xtrc="entry:4;21:32" colname="col2" dita-ot:x="2" dita-ot:y="2">IOS 14.0 +</entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/device_compatibility.dita" xtrc="row:3;23:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/device_compatibility.dita" xtrc="entry:5;24:32" colname="col1" dita-ot:x="1" dita-ot:y="3">Android</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/device_compatibility.dita" xtrc="entry:6;25:32" colname="col2" dita-ot:x="2" dita-ot:y="3">Android 10 or newer</entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/device_compatibility.dita" xtrc="row:4;27:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/device_compatibility.dita" xtrc="entry:7;28:32" colname="col1" dita-ot:x="1" dita-ot:y="4">Landline ("<b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/device_compatibility.dita" xtrc="b:1;28:46">Call Me</b>" option only)</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/device_compatibility.dita" xtrc="entry:8;29:32" colname="col2" dita-ot:x="2" dita-ot:y="4">US or Canada area codes</entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/device_compatibility.dita" xtrc="row:5;31:26">
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/device_compatibility.dita" xtrc="entry:9;32:32" colname="col1" dita-ot:x="1" dita-ot:y="5">International Devices</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/device_compatibility.dita" xtrc="entry:10;33:32" colname="col2" dita-ot:x="2" dita-ot:y="5">Can be added as "tablets"</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool " xtrc="topicref:8;13:60" xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/UMN_Duo_Authentication.ditamap"><link class="- topic/link " format="dita" href="../topics/Managing_Your_Duo_Devices.dita" mapclass="- map/topicref " role="parent" scope="local" type="concept" xtrc="topicref:4;9:60" xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/UMN_Duo_Authentication.ditamap"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Managing Your Duo Devices</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Adding and removing devices from Duo can be done at any time.</desc></link></linkpool></related-links></reference>
