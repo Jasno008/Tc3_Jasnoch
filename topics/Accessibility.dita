@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="Accessibility">
+    <title>Accessibility Options</title>
+    <shortdesc>Duo provides many different options to verify your identity. If you have questions or
+        concerns about using Duo, contact your disability Resource Center.</shortdesc>
+    <conbody>
+        <p><xref href="https://atlas.umn.edu/service-portfolio/adaptive-technology-services"
+                format="html" scope="external">Contact the Disability Resource Center</xref></p>
+        <p></p>
+    </conbody>
+</concept>

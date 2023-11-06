@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="adding_and_removing_devices_from_duo">
+    <title>Managing Your Duo Devices</title>
+    <shortdesc>Adding and removing devices from Duo can be done at any time.</shortdesc>
+    <conbody>
+        <p>It is strongly suggested to have at least two different devices added to your Duo
+            Security account. By doing so, you will still be able to access your Duo account using
+            your secondary device even if your primary Duo device is broken or inaccessible.</p>
+    </conbody>
+</concept>

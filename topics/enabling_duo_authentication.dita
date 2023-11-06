@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="enabling_duo_authentication">
+    <title>Enabling Duo Authentication</title>
+    <shortdesc>While it is possible to remove specific devices from Duo, once you have opted in you
+        may not remove Duo from your account.</shortdesc>
+    <taskbody>
+        <context>Enabling Duo as a first time user</context>
+        <steps>
+            <step>
+                <cmd>Sign into <xref href="https://my-account.umn.edu/" format="html"
+                        scope="external">my-account.umn.edu</xref> with your UMN Internet ID and
+                    password.</cmd>
+            </step>
+            <step>
+                <cmd>Select <b>Duo Security</b> from the navigation menu on the left-hand side of
+                    the page.</cmd>
+                <substeps id="substeps_pp5_x1t_3zb">
+                    <substep>
+                        <cmd>In the drop-down menu, choose <b>Enable Duo Security</b></cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Select <b>Yes </b>to opt in, then select <b>Submit</b>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

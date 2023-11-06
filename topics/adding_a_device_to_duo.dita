@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="adding_a_device_to_duo">
+    <title>Adding a Device to Duo</title>
+    <shortdesc>You can add a new device to your account via self-service.</shortdesc>
+    <taskbody>
+        <context>To add a new Duo device:</context>
+        <steps>
+            <step>
+                <cmd>Sign into <xref href="https://my-account.umn.edu/" format="html"
+                        scope="external">my-account.umn.edu</xref> with your UMN Internet ID and
+                    password</cmd>
+            </step>
+            <step>
+                <cmd>Authenticate with Duo using your <xref
+                        href="https://it.umn.edu/services-technologies/how-tos/duo-use-duo-security-sign-in#use-backup"
+                        format="html" scope="external">backup device</xref> or a <xref
+                        href="https://it.umn.edu/services-technologies/how-tos/duo-use-duo-security-sign-in#using-passcode"
+                        format="html" scope="external">bypass code</xref></cmd>
+                <substeps id="substeps_urp_yct_3zb">
+                    <substep>
+                        <cmd>If you have a new device that uses the <b>same phone number</b> as an
+                            existing Duo device on your account, use the <b><xref
+                                    href="https://guide.duo.com/other-phones" format="html"
+                                    scope="external">Call Me</xref></b> option</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>If you do not have a backup device or bypass codes AND your new device
+                            has a different phone number, prepare a valid form of photo ID and
+                            contact <xref href="http://it.umn.edu/help" format="html"
+                                scope="external">Technology Help</xref> for assistance</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Select <b>Duo Security</b> from the navigation menu </cmd>
+            </step>
+            <step>
+                <cmd>Select <b>Create or Manage Duo Account</b></cmd>
+                <substeps id="substeps_ip5_fgt_3zb">
+                    <substep>
+                        <cmd>Authenticate with Duo a second time using one of the options from step
+                            2</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Select <b>Add another device</b></cmd>
+            </step>
+            <step>
+                <cmd>Select the type of device you wish to add</cmd>
+                <substeps id="substeps_pzz_13t_3zb">
+                    <substep>
+                        <cmd>If you wish to enroll a smart phone tied to an <b>international
+                                (non-US)</b> phone number, add the device as a <b>Tablet</b> rather
+                            than a <b>Mobile phone</b></cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Click <b>Continue</b> and follow the prompts to complete enrollment for your
+                    device</cmd>
+            </step>
+            <step>
+                <cmd>If you are adding a smart phone or a tablet, you will be prompted to scan a QR
+                    code or use an activation link to activate Duo mobile</cmd>
+                <substeps id="substeps_i1v_g3t_3zb">
+                    <substep>
+                        <cmd>Scan the <b>QR code</b> and click <b>Continue</b> to complete the
+                            enrollment process</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>If the QR code was created on the <b>same</b>
+                            <b>device</b> that you are trying to enroll, select <b>Email me an
+                                activation link </b>instead. Enter an email address that you can
+                            check on the device you wish to enroll. Click <b>Send email</b></cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Use the device you are trying to enroll to open the emailed link. On the
+                        <b>Activate Duo Mobile by Email</b> screen, select <b>Continue </b>to
+                    complete the enrollment process.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

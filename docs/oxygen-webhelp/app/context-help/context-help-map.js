@@ -1,0 +1,1 @@
+var contextHelpMap = [{"appname":"", "appid":"What_is_multi_factor", "path":"topics/What_is_multi-factor.html"},{"appname":"", "appid":"Accessibility", "path":"topics/Accessibility.html"},{"appname":"", "appid":"Untitled", "path":"topics/Set_Up_Duo.html"},{"appname":"", "appid":"Troubleshoot_Duo", "path":"topics/Troubleshoot_Duo.html"}];

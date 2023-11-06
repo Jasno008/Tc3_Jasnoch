@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="What_is_multi_factor">
+    <title>What is Multi-Factor Authentication?</title>
+    <shortdesc>Duo Security (multi-factor authentication) is required at UMN Sign-In pages. The
+        Sign-In page is the University's gateway to applications such as my, G Suite (Gmail,
+        Calender, Docs, etc.) Canvas, and many others.</shortdesc>
+    <conbody>
+        <p>By requiring you to verify your identity with a device, Duo adds another layer of
+            security in front of the information, accounts, and assets you access online (even in
+            the event your password is stolen). Once enrolled, you will be able to deny access to
+            your accounts (on your Duo-enrolled device) if someone else is trying to sign in as
+            you.</p>
+    </conbody>
+</concept>

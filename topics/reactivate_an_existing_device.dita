@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="reactivate_an_existing_device">
+    <title>Reactivate an Existing Device</title>
+    <shortdesc>If you are replacing a phone that is already associated with your Duo Security
+        account, activate your new device while you are in possession of both the old and new
+        devices.</shortdesc>
+    <taskbody>
+        <context>To reactivate your device:</context>
+        <steps>
+            <step>
+                <cmd>Sign into <xref href="https://my-account.umn.edu/" format="html"
+                        scope="external">my-account.umn.edu</xref> with your UMN Internet ID and
+                    password</cmd>
+            </step>
+            <step>
+                <cmd>Authenticate with Duo using your <xref
+                        href="https://it.umn.edu/services-technologies/how-tos/duo-use-duo-security-sign-in#use-backup"
+                        format="html" scope="external">backup device</xref> or a <xref
+                        href="https://it.umn.edu/services-technologies/how-tos/duo-use-duo-security-sign-in#using-passcode"
+                        format="html" scope="external">bypass code</xref></cmd>
+                <substeps id="substeps_rcd_nnt_3zb">
+                    <substep>
+                        <cmd>If you have a new device that uses the <b>same phone number </b>as an
+                            existing Duo device on your account, use the <b><xref
+                                    href="https://guide.duo.com/other-phones" format="html"
+                                    scope="external">Call Me</xref></b> option</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>If you do not have a backup device or bypass codes AND your new device
+                            has a different phone number, prepare a valid form of photo ID and
+                            contact <xref href="http://it.umn.edu/help" format="html"
+                                scope="external">Technology Help</xref> for assistance</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Select <b>Duo Security</b> from the navigation menu</cmd>
+            </step>
+            <step>
+                <cmd>Select <b>Create or Manage Duo Account</b></cmd>
+                <substeps id="substeps_zvk_qnt_3zb">
+                    <substep>
+                        <cmd>Authenticate with Duo a second time using one of the options from step
+                            2</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Next to the device you are reactivating or replacing, select <b>Device
+                        Options</b></cmd>
+            </step>
+            <step>
+                <cmd>Select <b>Reactivate Duo Mobile</b></cmd>
+            </step>
+            <step>
+                <cmd>If you are reactivating an existing phone number on your account, you will be
+                    prompted to <b>verify ownership</b> of the device</cmd>
+                <substeps id="substeps_rpt_vnt_3zb">
+                    <substep>
+                        <cmd>Select <b>Call me</b> to get your verification code</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Enter the 6-digit code and select <b>Verify</b></cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select <b>Continue</b></cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>You will be prompted to install Duo Mobile on your device. Once the Duo Mobile
+                    application is installed on your device, select <b>I have Duo Mobile
+                        Installed</b></cmd>
+            </step>
+            <step>
+                <cmd>If you are adding a smart phone or a tablet, you will be prompted to scan a QR
+                    code or use an activation link to activate Duo mobile</cmd>
+                <substeps id="substeps_v1z_14t_3zb">
+                    <substep>
+                        <cmd>Scan the <b>QR code</b> and click <b>Continue</b> to complete the
+                            enrollment process</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>If the QR code was created on the <b>same</b>
+                            <b>device</b> that you are trying to enroll, select <b>Email me an
+                                activation link </b>instead. Enter an email address that you can
+                            check on the device you wish to enroll. Click <b>Send email</b></cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Use the device you are trying to enroll to open the emailed link. On the
+                        <b>Activate Duo Mobile by Email</b> screen, select <b>Continue </b>to
+                    complete the enrollment process.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

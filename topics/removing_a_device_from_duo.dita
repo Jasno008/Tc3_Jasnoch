@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="removing_a_device_from_duo">
+    <title>Removing a Device From Duo</title>
+    <shortdesc>Removing devices from Duo is possible, but once you have opted to enable Duo you
+        cannot opt out.</shortdesc>
+    <taskbody>
+        <context>To remove a device from duo:<p/></context>
+        <steps>
+            <step>
+                <cmd>Sign into <xref href="https://my-account.umn.edu/" format="html"
+                        scope="external">my-account.umn.edu</xref> with your UMN Internet ID and
+                    password</cmd>
+            </step>
+            <step>
+                <cmd>Authenticate with Duo using an existing device or with a <xref
+                        href="https://it.umn.edu/services-technologies/how-tos/duo-use-duo-security-sign-in#using-passcode"
+                        format="html" scope="external">bypass code</xref></cmd>
+                <substeps id="substeps_swf_llt_3zb">
+                    <substep>
+                        <cmd>If you do not have an existing device or bypass codes, prepare a valid
+                            form of photo ID and contact <xref href="http://it.umn.edu/help"
+                                format="html" scope="external">Technology Help</xref> for
+                            assistance</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Select <b>Duo Security</b> from the navigation menu</cmd>
+            </step>
+            <step>
+                <cmd>Select <b>Create or Manage Duo Account</b></cmd>
+                <substeps id="substeps_rs2_qlt_3zb">
+                    <substep>
+                        <cmd>Authenticate with Duo a second time using one of the options from step
+                            2</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Select <b>Device Options </b>for the device you want to remove</cmd>
+            </step>
+            <step>
+                <cmd>Click the <b>trash can icon</b></cmd>
+            </step>
+            <step>
+                <cmd>Click <b>Remove</b></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

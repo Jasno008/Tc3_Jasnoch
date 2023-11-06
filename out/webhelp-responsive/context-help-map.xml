@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="What_is_multi_factor" path="topics/What_is_multi-factor.html"/>
+   <appContext helpID="Accessibility" path="topics/Accessibility.html"/>
+   <appContext helpID="Untitled" path="topics/Set_Up_Duo.html"/>
+   <appContext helpID="Troubleshoot_Duo" path="topics/Troubleshoot_Duo.html"/>
+</map>

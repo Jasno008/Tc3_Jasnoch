@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="device_compatability">
+    <title>Device Compatibility</title>
+    <shortdesc>Duo security is recommended for smart phones and tablets- additional information on
+        compatibility is provided by the table below.</shortdesc>
+    <refbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_ryt_dt5_3zb">
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>Compatible Device</entry>
+                        <entry>Requirements</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>iPhone, Apple Watch</entry>
+                        <entry>IOS 14.0 +</entry>
+                    </row>
+                    <row>
+                        <entry>Android</entry>
+                        <entry>Android 10 or newer</entry>
+                    </row>
+                    <row>
+                        <entry>Landline ("<b>Call Me</b>" option only)</entry>
+                        <entry>US or Canada area codes</entry>
+                    </row>
+                    <row>
+                        <entry>International Devices</entry>
+                        <entry>Can be added as "tablets"</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>
