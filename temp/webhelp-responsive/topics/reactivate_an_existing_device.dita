@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\Jasro\OneDrive\Desktop\Tc3_Jasnoch copy\temp\webhelp-responsive\topics?><?workdir-uri file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/temp/webhelp-responsive/topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="reactivate_an_existing_device" ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="task:1;3:42" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="title:1;4:12">Reactivate an Existing Device</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="shortdesc:1;5:16">Reactivate a device that was once in use.</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="taskbody:1;6:15">
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="context:1;7:18">To reactivate your device:</context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="steps:1;8:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="step:1;9:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="cmd:1;10:22">Sign into <xref href="https://my-account.umn.edu/" format="html" scope="external" class="- topic/xref " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="xref:1;11:42"><?ditaot usertext?>my-account.umn.edu</xref> with your UMN Internet ID and
+                    password</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="step:2;14:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="cmd:2;15:22">Authenticate with Duo using your <xref href="https://it.umn.edu/services-technologies/how-tos/duo-use-duo-security-sign-in#use-backup" format="html" scope="external" class="- topic/xref " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="xref:2;17:56"><?ditaot usertext?>backup device</xref> or a <xref href="https://it.umn.edu/services-technologies/how-tos/duo-use-duo-security-sign-in#using-passcode" format="html" scope="external" class="- topic/xref " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="xref:3;19:56"><?ditaot usertext?>bypass code</xref></cmd>
+                <substeps id="substeps_rcd_nnt_3zb" class="- topic/ol task/substeps " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="substeps:1;20:53">
+                    <substep class="- topic/li task/substep " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="substep:1;21:30">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="cmd:3;22:30">If you have a new device that uses the <b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="b:1;22:72">same phone number </b>as an
+                            existing Duo device on your account, use the <b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="b:2;23:77"><xref href="https://guide.duo.com/other-phones" format="html" scope="external" class="- topic/xref " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="xref:4;25:54"><?ditaot usertext?>Call Me</xref></b> option</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="substep:2;27:30">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="cmd:4;28:30">If you do not have a backup device or bypass codes AND your new device
+                            has a different phone number, prepare a valid form of photo ID and
+                            contact <xref href="http://it.umn.edu/help" format="html" scope="external" class="- topic/xref " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="xref:5;31:50"><?ditaot usertext?>Technology Help</xref> for assistance</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="step:3;35:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="cmd:5;36:22">Select <b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="b:3;36:32">Duo Security</b> from the navigation menu</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="step:4;38:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="cmd:6;39:22">Select <b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="b:4;39:32">Create or Manage Duo Account</b></cmd>
+                <substeps id="substeps_zvk_qnt_3zb" class="- topic/ol task/substeps " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="substeps:2;40:53">
+                    <substep class="- topic/li task/substep " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="substep:3;41:30">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="cmd:7;42:30">Authenticate with Duo a second time using one of the options from step
+                            2</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="step:5;47:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="cmd:8;48:22">Next to the device you are reactivating or replacing, select <b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="b:5;48:86">Device
+                        Options</b></cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="step:6;51:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="cmd:9;52:22">Select <b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="b:6;52:32">Reactivate Duo Mobile</b></cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="step:7;54:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="cmd:10;55:22">If you are reactivating an existing phone number on your account, you will be
+                    prompted to <b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="b:7;56:36">verify ownership</b> of the device</cmd>
+                <substeps id="substeps_rpt_vnt_3zb" class="- topic/ol task/substeps " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="substeps:3;57:53">
+                    <substep class="- topic/li task/substep " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="substep:4;58:30">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="cmd:11;59:30">Select <b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="b:8;59:40">Call me</b> to get your verification code</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="substep:5;61:30">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="cmd:12;62:30">Enter the 6-digit code and select <b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="b:9;62:67">Verify</b></cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="substep:6;64:30">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="cmd:13;65:30">Select <b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="b:10;65:40">Continue</b></cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="step:8;69:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="cmd:14;70:22">You will be prompted to install Duo Mobile on your device. Once the Duo Mobile
+                    application is installed on your device, select <b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="b:11;71:72">I have Duo Mobile
+                        Installed</b></cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="step:9;74:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="cmd:15;75:22">If you are adding a smart phone or a tablet, you will be prompted to scan a QR
+                    code or use an activation link to activate Duo mobile</cmd>
+                <substeps id="substeps_v1z_14t_3zb" class="- topic/ol task/substeps " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="substeps:4;77:53">
+                    <substep class="- topic/li task/substep " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="substep:7;78:30">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="cmd:16;79:30">Scan the <b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="b:12;79:42">QR code</b> and click <b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="b:13;79:67">Continue</b> to complete the
+                            enrollment process</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="substep:8;82:30">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="cmd:17;83:30">If the QR code was created on the <b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="b:14;83:67">same</b>
+                            <b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="b:15;84:32">device</b> that you are trying to enroll, select <b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="b:16;84:84">Email me an
+                                activation link </b>instead. Enter an email address that you can
+                            check on the device you wish to enroll. Click <b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="b:17;86:78">Send email</b></cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="step:10;90:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="cmd:18;91:22">Use the device you are trying to enroll to open the emailed link. On the
+                        <b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="b:18;92:28">Activate Duo Mobile by Email</b> screen, select <b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/reactivate_an_existing_device.dita" xtrc="b:19;92:79">Continue </b>to
+                    complete the enrollment process.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool " xtrc="topicref:7;12:69" xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/UMN_Duo_Authentication.ditamap"><link class="- topic/link " format="dita" href="../topics/Managing_Your_Duo_Devices.dita" mapclass="- map/topicref " role="parent" scope="local" type="concept" xtrc="topicref:4;9:60" xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/UMN_Duo_Authentication.ditamap"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Managing Your Duo Devices</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Adding and removing devices from Duo can be done at any time.</desc></link></linkpool></related-links></task>

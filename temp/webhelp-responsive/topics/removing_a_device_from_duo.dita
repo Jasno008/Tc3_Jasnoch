@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\Jasro\OneDrive\Desktop\Tc3_Jasnoch copy\temp\webhelp-responsive\topics?><?workdir-uri file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/temp/webhelp-responsive/topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="removing_a_device_from_duo" ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/removing_a_device_from_duo.dita" xtrc="task:1;3:39" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/removing_a_device_from_duo.dita" xtrc="title:1;4:12">Removing a Device From Duo</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/removing_a_device_from_duo.dita" xtrc="shortdesc:1;5:16">Remove devices from Duo Authentication. Removing devices will not remove Duo from
+        your account.</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/removing_a_device_from_duo.dita" xtrc="taskbody:1;7:15">
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/removing_a_device_from_duo.dita" xtrc="context:1;8:18">To remove a device from duo:<p class="- topic/p " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/removing_a_device_from_duo.dita" xtrc="p:1;8:50"/></context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/removing_a_device_from_duo.dita" xtrc="steps:1;9:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/removing_a_device_from_duo.dita" xtrc="step:1;10:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/removing_a_device_from_duo.dita" xtrc="cmd:1;11:22">Sign into <xref href="https://my-account.umn.edu/" format="html" scope="external" class="- topic/xref " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/removing_a_device_from_duo.dita" xtrc="xref:1;12:42"><?ditaot usertext?>my-account.umn.edu</xref> with your UMN Internet ID and
+                    password</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/removing_a_device_from_duo.dita" xtrc="step:2;15:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/removing_a_device_from_duo.dita" xtrc="cmd:2;16:22">Authenticate with Duo using an existing device or with a <xref href="https://it.umn.edu/services-technologies/how-tos/duo-use-duo-security-sign-in#using-passcode" format="html" scope="external" class="- topic/xref " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/removing_a_device_from_duo.dita" xtrc="xref:2;18:56"><?ditaot usertext?>bypass code</xref></cmd>
+                <substeps id="substeps_swf_llt_3zb" class="- topic/ol task/substeps " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/removing_a_device_from_duo.dita" xtrc="substeps:1;19:53">
+                    <substep class="- topic/li task/substep " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/removing_a_device_from_duo.dita" xtrc="substep:1;20:30">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/removing_a_device_from_duo.dita" xtrc="cmd:3;21:30">If you do not have an existing device or bypass codes, prepare a valid
+                            form of photo ID and contact <xref href="http://it.umn.edu/help" format="html" scope="external" class="- topic/xref " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/removing_a_device_from_duo.dita" xtrc="xref:3;23:64"><?ditaot usertext?>Technology Help</xref> for
+                            assistance</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/removing_a_device_from_duo.dita" xtrc="step:3;28:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/removing_a_device_from_duo.dita" xtrc="cmd:4;29:22">Select <b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/removing_a_device_from_duo.dita" xtrc="b:1;29:32">Duo Security</b> from the navigation menu</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/removing_a_device_from_duo.dita" xtrc="step:4;31:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/removing_a_device_from_duo.dita" xtrc="cmd:5;32:22">Select <b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/removing_a_device_from_duo.dita" xtrc="b:2;32:32">Create or Manage Duo Account</b></cmd>
+                <substeps id="substeps_rs2_qlt_3zb" class="- topic/ol task/substeps " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/removing_a_device_from_duo.dita" xtrc="substeps:2;33:53">
+                    <substep class="- topic/li task/substep " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/removing_a_device_from_duo.dita" xtrc="substep:2;34:30">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/removing_a_device_from_duo.dita" xtrc="cmd:6;35:30">Authenticate with Duo a second time using one of the options from step
+                            2</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/removing_a_device_from_duo.dita" xtrc="step:5;40:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/removing_a_device_from_duo.dita" xtrc="cmd:7;41:22">Select <b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/removing_a_device_from_duo.dita" xtrc="b:3;41:32">Device Options </b>for the device you want to remove</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/removing_a_device_from_duo.dita" xtrc="step:6;43:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/removing_a_device_from_duo.dita" xtrc="cmd:8;44:22">Click the <b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/removing_a_device_from_duo.dita" xtrc="b:4;44:35">trash can icon</b></cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/removing_a_device_from_duo.dita" xtrc="step:7;46:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/removing_a_device_from_duo.dita" xtrc="cmd:9;47:22">Click <b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/topics/removing_a_device_from_duo.dita" xtrc="b:5;47:31">Remove</b></cmd>
+            </step>
+        </steps>
+    </taskbody>
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool " xtrc="topicref:6;11:66" xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/UMN_Duo_Authentication.ditamap"><link class="- topic/link " format="dita" href="../topics/Managing_Your_Duo_Devices.dita" mapclass="- map/topicref " role="parent" scope="local" type="concept" xtrc="topicref:4;9:60" xtrf="file:/C:/Users/Jasro/OneDrive/Desktop/Tc3_Jasnoch%20copy/UMN_Duo_Authentication.ditamap"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Managing Your Duo Devices</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Adding and removing devices from Duo can be done at any time.</desc></link></linkpool></related-links></task>
